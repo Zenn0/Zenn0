@@ -1,16 +1,26 @@
+
+
+
 ### Hi there 👋
 
-<!--
-**Zenn0/Zenn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Junior Developer working in Salvador, Brazil.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working on **Adoption Pet App**
+- ⚙️ I use daily: `dart`, `flutter`, `typescript`,  `angular`,`.css`, `azuretool`
+- 📚 Reading 《Clean Code, Robert C. Martin》
+- 🌱 Learning all about **Flutter**
+- 📫 Reach me: [linkedin.com/zenno/](https://www.linkedin.com/in/zenno/)
+- ⚡️ Fun fact: I am an Electrical Engineer who quited 3 years job to become a Junior Developer
+
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Zenn0" alt="visitor badge"/>       
+</p>
