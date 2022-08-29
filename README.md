@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-#### I'm a Junior Developer working in Salvador, Brazil.
+#### I'm a Junior Developer working from Salvador, Brazil.
 
 ##### NOW
 
