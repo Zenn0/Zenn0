@@ -7,8 +7,8 @@
 
 ##### NOW
 
-- ✨ Currently developing an **Adoption Pet App**, check here [Pet App Repo](https://github.com/Zenn0/adopt_pet_app)
-- 🔭 Trying to find a second job to work with Mobile Development
+- ✨ Currently developing an **Adoption Pet App**
+- 🔭 Trying to find a way to work with Mobile Development
 - :robot: Panning on doing a home server
 
 ##### BIO
