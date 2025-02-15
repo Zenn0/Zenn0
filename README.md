@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-#### I'm a Junior Mobile Developer doing Freelances from fun
+#### I'm a Junior Mobile Developer doing Freelances for fun
 
 ##### NOW
 
@@ -18,7 +18,7 @@
 - 📚 Reading 《Clean Code, Robert C. Martin》
 - 🌱 Learning all about **Flutter** and **Azure Tools**
 - 📫 Reach me: [linkedin.com/zenno/](https://www.linkedin.com/in/zenno/)
-- ⚡️ Fun fact: I am an Electrical Engineer who quited 3 years job to become a Junior Developer
+- ⚡️ Fun fact: I am an Electrical Engineer who loves to program and makes this as Hobbt and side hustle!
 
 
 
