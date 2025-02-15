@@ -13,7 +13,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Codec, Ireland**
+- 🏢 I'm currently working at **BMW, Germany**
 - ⚙️ I use daily: `dart`, `flutter`, `typescript`,  `angular`,`.css`, `azuretools`
 - 📚 Reading 《Clean Code, Robert C. Martin》
 - 🌱 Learning all about **Flutter** and **Azure Tools**
