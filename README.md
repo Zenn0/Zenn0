@@ -7,7 +7,7 @@
 
 ##### NOW
 
-- ✨ Currently developing an **Adoption Pet App**
+- ✨ Currently developing an **Bible Reading App**
 - 🔭 Trying to find a way to work with Mobile Development
 - :robot: Panning on doing a home server
 
