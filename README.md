@@ -18,7 +18,7 @@
 - 📚 Reading 《Clean Code, Robert C. Martin》
 - 🌱 Learning all about **Flutter** and **Azure Tools**
 - 📫 Reach me: [linkedin.com/zenno/](https://www.linkedin.com/in/zenno/)
-- ⚡️ Fun fact: I am an Electrical Engineer who loves to program and makes this as Hobbt and side hustle!
+- ⚡️ Fun fact: I am an Electrical Engineer who loves to program and makes this as Hobby and side hustle!
 
 
 
